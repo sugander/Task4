@@ -6,20 +6,15 @@ This project aims to plot a time series line chart that shows the trend of total
 
 Key Filters Applied:
 
-Content Rating: Only include apps with a content rating of "Teen".
-App Name: Include only apps whose names start with the letter 'E'.
-Installs: Include only apps with more than 10,000 installs.
-Time Period: The chart will be displayed only between 4 PM to 8 PM.
+Content Rating: Only include apps with a content rating of "Teen". App Name: Include only apps whose names start with the letter 'E'. Installs: Include only apps with more than 10,000 installs. Time Period: The chart will be displayed only between 4 PM to 8 PM.
 
 Additional Features:
 
-Highlighting Significant Growth: The chart will highlight periods where the month-over-month increase in installs exceeds 20% by shading the area under the curve.
-Segmentation by Category: The time series line chart will segment data by app category, providing a clear view of trends across different types of apps.
+Highlighting Significant Growth: The chart will highlight periods where the month-over-month increase in installs exceeds 20% by shading the area under the curve. Segmentation by Category: The time series line chart will segment data by app category, providing a clear view of trends across different types of apps.
 
 Deliverables:
 
-Time Series Line Chart: A visualization of the trend of total installs over time, segmented by app category, with:
-Shaded areas indicating periods of significant growth where installs increased by more than 20% month-over-month.
+Time Series Line Chart: A visualization of the trend of total installs over time, segmented by app category, with: Shaded areas indicating periods of significant growth where installs increased by more than 20% month-over-month.
 
 Purpose:
 
